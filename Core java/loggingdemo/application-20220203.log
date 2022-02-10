@@ -1,0 +1,5 @@
+2022-02-03 11:45:00.916 [main] DEBUG loggingdemo.RevatureDemo - this is debug log
+2022-02-03 11:45:00.919 [main] INFO  loggingdemo.RevatureDemo - this is info log
+2022-02-03 11:45:00.919 [main] WARN  loggingdemo.RevatureDemo - this is warn log
+2022-02-03 11:45:00.920 [main] ERROR loggingdemo.RevatureDemo - this is error log
+2022-02-03 11:45:00.920 [main] FATAL loggingdemo.RevatureDemo - this is fatal log
